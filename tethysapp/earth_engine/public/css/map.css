@@ -1,0 +1,14 @@
+/* Map Format */
+#app-content-wrapper #app-content {
+    height: 100%;
+}
+
+#inner-app-content {
+    height: 100%;
+    padding: 0;
+}
+
+.ol-zoomslider {
+    width: 28px;
+    border: 1px solid #7b98b4;
+}
